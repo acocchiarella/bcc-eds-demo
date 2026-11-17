@@ -1,0 +1,46 @@
+:root {
+  /* Colors */
+  --color-primary: #002e53;
+  --color-link: #0067b1;
+  --color-accent: #ffd200;
+  --color-surface: #ffffff;
+  --color-text: #333333;
+  --color-text-strong: #000000;
+  --color-text-muted: #666666;
+  --color-bg-subtle: #eef2f5;
+  --color-bg-tint: #f8fcff;
+  --color-bg-info: #ecf5fb;
+  --color-bg-neutral: #f8f8f8;
+  --color-bg-error: #ffe7e7;
+  --color-error: #ae0000;
+  --color-border-light: #d4e7f4;
+  --color-border: #c4dced;
+
+  /* Font families */
+  --font-base: "Noto Sans", sans-serif;
+
+  /* Font sizes */
+  --font-size-sm: 14px;
+  --font-size-md: 16px;
+  --font-size-lg: 20px;
+  --font-size-xl: 28px;
+  --font-size-2xl: 44px;
+
+  /* Font weights */
+  --font-weight-regular: 400;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  /* Line heights */
+  --line-height-sm: 16px;
+  --line-height-base-sm: 20px;
+  --line-height-md: 24px;
+  --line-height-lg: 28px;
+  --line-height-xl: 36px;
+  --line-height-2xl: 52px;
+
+  /* Radii */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-pill: 24px;
+}
