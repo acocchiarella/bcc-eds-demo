@@ -1,0 +1,18 @@
+:root {
+  --color-brand-blue: #0067b1;
+  --color-brand-blue-dark: #005596;
+  --color-accent-yellow: #ffd200;
+  --color-text-inverse: #ffffff;
+  --font-family-base: 'Noto Sans', Arial, sans-serif;
+  --font-size-title: 28px;
+  --font-size-body: 16px;
+  --line-height-title: 36px;
+  --line-height-body: 24px;
+  --space-8: 8px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-72: 72px;
+  --space-80: 80px;
+  --space-120: 120px;
+}
